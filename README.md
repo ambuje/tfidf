@@ -61,8 +61,8 @@ In this project the author has designed- \
 
 1. From cmd line go to slang_labs_backend folder
 2. Install pipenv For example : for windows = pip install --user pipenv,and add to your PATH (https://github.com/pypa/pipenv)
-3. Commands to execute
-  3.1 pipenv shell
+3. Commands to execute \
+  3.1 pipenv shell \
   3.2 pipenv install 
 4. To run the server = python app.py
 
